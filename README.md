@@ -52,7 +52,7 @@ Forecast Trends
 
 📊 Dashboard Preview
 
-(Add dashboard PNGs)
+![FP&A Project Screenshot](https://github.com/Gargiparlikar/End-to-End-FP-A-Dashboard-using-Power-BI-Python/blob/main/Screenshot%202025-12-01%20131520.png)
 
 🧾 Key Insights
 
