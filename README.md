@@ -1,9 +1,9 @@
-#⭐ 2. End-to-End FP&A Dashboard (Power BI + Python) — README.md
+# ⭐ 2. End-to-End FP&A Dashboard (Power BI + Python) — README.md
 💼 Financial Planning & Analysis (FP&A) Dashboard
 
 End-to-end automated financial analytics system combining Python ETL and Power BI visualization.
 
-📌 Overview
+# 📌 Overview
 
 This project automates the collection, cleaning, and transformation of financial datasets into a full Power BI dashboard that includes YTD, MTD, variance analysis, and forecasting.
 
@@ -19,7 +19,7 @@ Jupyter Notebook
 
 ETL Automation
 
-🔄 Workflow
+# 🔄 Workflow
 1. Data Extraction
 
 Imported Excel + CSV financial datasets
@@ -50,11 +50,11 @@ Region-wise Growth
 
 Forecast Trends
 
-📊 Dashboard Preview
+# 📊 Dashboard Preview
 
 ![FP&A Project Screenshot](https://github.com/Gargiparlikar/End-to-End-FP-A-Dashboard-using-Power-BI-Python/blob/main/Screenshot%202025-12-01%20131520.png)
 
-🧾 Key Insights
+# 🧾 Key Insights
 
 18% revenue growth YoY
 
@@ -64,7 +64,7 @@ Marketing overspent by 12%
 
 Forecast accuracy: 92%
 
-✔ How to Run
+# ✔ How to Run
 pip install pandas numpy
 python etl_script.py
 
