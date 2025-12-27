@@ -64,8 +64,6 @@ Marketing overspent by 12%
 
 Forecast accuracy: 92%
 
-# ✔ How to Run
-pip install pandas numpy
-python etl_script.py
+
 
 
